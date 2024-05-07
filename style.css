@@ -1,6 +1,6 @@
 body {
-    background-color:#4682B4;
-   
+    background:linear-gradient(red, rgb(6, 6, 179));
+    height: 2240px;
      }
 .circel{
     width: 800px;
