@@ -1,53 +1,47 @@
+.h1{
+    text-align: center;
+}
 body {
     background:linear-gradient(red, rgb(6, 6, 179));
-    height: 2240px;
-     }
-.circel{
+    height: 2173px;
+  }
+.circle{
     width: 800px;
-    height: 125px;
+    height: 285px;
 
     
-    background-color:#4169E1;
+    background-color:rgb(255, 255, 255);
     border-radius: 25px
 }
-.circel1{
-    width: 800px;
-    height: 125px;
+.circle1{
+    width: 675px;
+    height: 55px;
 
     
-    background-color:#4169E1;
-    border-radius: 25px
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px
 }
-.circel2{
-    width: 800px;
-    height: 125px;
+.circle2{
+    width: 675px;
+    height: 175px;
 
     
-    background-color:#4169E1;
-    border-radius: 25px
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px
 }
-.circel3{
-    width: 800px;
-    height: 100px;
 
-    
-    background-color:#4169E1;
-    border-radius: 25px
-}
-.circel4{
-    width: 800px;
-    height: 200px;
-
-    
-    background-color:#4169E1;
-    border-radius: 25px
-}
-.img{
-    padding-left: 18px;
-}
-.img1{
-    padding-left: 89;
+.imgsize{
+    padding-left: 800px;
 }
 .img2{
-    padding-left: 360px;
+    padding: 30px;
 }
+.img3{
+    padding-left:  800px; ;
+}
+a {
+    text-decoration:none;
+    color: aliceblue;
+    font-size: 14px;
+    margin-left: 1300px;
+  }
