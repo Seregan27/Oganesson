@@ -8,46 +8,54 @@ body {
 .circel{
     width: 800px;
     height: 125px;
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:#ffffff;
     border-radius: 25px
 }
 .circel1{
     width: 800px;
     height: 125px;
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:#ffffff;
     border-radius: 25px
 }
 .circel2{
     width: 800px;
     height: 125px;
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:#ffffff;
     border-radius: 25px
 }
 .circel3{
     width: 800px;
     height: 100px;
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:#ffffff;
     border-radius: 25px
 }
 .circel4{
     width: 800px;
     height: 200px;
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:#ffffff;
     border-radius: 25px
 }
 .img{
-    padding-left: 18px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img1{
-    padding-left: 89;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img2{
-    padding-left: 360px;
+    margin-left: auto;
+    margin-right: auto;
 }
 a {
     text-decoration:none;
